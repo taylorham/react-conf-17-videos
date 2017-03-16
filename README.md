@@ -34,7 +34,7 @@ by **Tal Kol** \[[twitter](https://twitter.com/koltal), [github](https://github.
 by **Andres Suarez** \[[twitter](https://twitter.com/zertosh), [github](https://github.com/zertosh)\]
 
 1. [**AWS Lambda + AWS Gateway + React = AWEsome**](https://youtu.be/S8HXkEnA48g?t=5h47m32s) (7m)  
-by **Sophia Shoemaker** \[[twitter](https://twitter.com/wisecobbler)\]
+by **Sophia Shoemaker** \[[twitter](https://twitter.com/wisecobbler), [github](https://github.com/mrscobbler)\]
 
 1. [**React to Code**](https://youtu.be/S8HXkEnA48g?t=5h53m46s) (6m)  
 by **Merrick Christensen** \[[twitter](https://twitter.com/iammerrick), [github](https://github.com/iammerrick)\]
@@ -43,7 +43,7 @@ by **Merrick Christensen** \[[twitter](https://twitter.com/iammerrick), [github]
 by **Max Stoiber** \[[twitter](https://twitter.com/mxstbr), [github](https://github.com/mxstbr)\]
 
 1. [**Building Applications for a Studio in the Cloud at Netflix**](https://youtu.be/S8HXkEnA48g?t=6h04m10s) (5m)  
-by **Feather Knee** \[[linkedin](https://www.linkedin.com/in/feather-knee/)\]
+by **Feather Knee** \[[twitter](https://twitter.com/featherart)\]
 
 1. [**You Don't Need A Fancy Framework to Use GraphQL with React**](https://youtu.be/S8HXkEnA48g?t=7h48m38s) (6m)  
 by **Samer Buna** \[[twitter](https://twitter.com/samerbuna), [github](https://github.com/samerbuna)\]
@@ -78,7 +78,7 @@ by **Neehar Venugopal** \[[twitter](https://twitter.com/neeharv), [github](https
 by **Parashuram N** \[[twitter](https://twitter.com/nparashuram), [github](https://github.com/axemclion)\]
 
 1. [**React-Storybook: Design, Develop, Document, and Debug Your React UI Components**](https://youtu.be/rMf3nDUfUpY?t=4h44m13s) (24m)  
-by **Marie-Laure Thuret** \[[twitter](https://twitter.com/mlthuret)\]
+by **Marie-Laure Thuret** \[[twitter](https://twitter.com/mlthuret), [github](https://github.com/mthuret)\]
 
 1. [**Extensible React**](https://youtu.be/rMf3nDUfUpY?t=5h08m56s) (20m)  
 by **Cameron Westland** \[[twitter](https://twitter.com/camwest), [github](https://github.com/camwest)\]
