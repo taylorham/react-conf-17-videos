@@ -1,4 +1,5 @@
 # ReactConf 17 Videos
+From [Facebook's ReactConf 17](conf.reacjs.org) in Santa Clara, California on March 13th and 14th, 2017
 
 ### [Full first day](https://youtu.be/S8HXkEnA48g) (Monday 03/13/17)
 ### [Full second day](https://youtu.be/rMf3nDUfUpY) (Tuesday 03/14/17)
