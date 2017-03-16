@@ -88,7 +88,7 @@ by **Cheng Lou** \[[twitter](https://twitter.com/_chenglou), [github](https://gi
 
 ### Lightning Talks
 1. [**Building React Communities Outside of Your Circle**](https://youtu.be/rMf3nDUfUpY?t=5h29m15s) (3m)  
-by **Troy Connor** \[[github](https://github.com/troy0820)\]
+by **Troy Connor** \[[twitter](https://twitter.com/troy0820), [github](https://github.com/troy0820)\]
 
 1. [**A Prettier Printer**](https://youtu.be/rMf3nDUfUpY?t=5h32m51s) (8m)  
 by **James Long** \[[twitter](https://twitter.com/jlongster), [github](https://github.com/jlongster)\]
