@@ -12,7 +12,7 @@ by **Tom Occhino** \[[twitter](https://twitter.com/tomocchino), [github](https:/
 by **Jing Chen** \[[twitter](https://twitter.com/jingc), [github](https://github.com/jingc)\]
 1. [**React Performance End to End (React Fiber)**](https://www.youtube.com/watch?v=bvFpe5j9-zQ) (14m)  
 by **Sebastian Markbåge** \[[twitter](https://twitter.com/sebmarkbage), [github](https://github.com/sebmarkbage)\]
-1. [**React Fiber, Create React App, and React Community**](https://www.youtube.com/watch?v=5Wd5rxT7e1U) (14m)  
+1. [**React Fiber, Create React App, and React Community**](https://www.youtube.com/watch?v=5Wd5rxT7e1U) (6m)  
 by **Tom Occhino** \[[twitter](https://twitter.com/tomocchino), [github](https://github.com/tomocchino)\]
 
 ### Main Topics
